@@ -61,11 +61,11 @@
 
 ###
 
-<div align="center">
+
 | GitHub Stats | Top Languages |
 | --- | --- |
-| ![Your github stats](https://github-readme-stats.vercel.app/api?username=MinnyS420&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinnyS420&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&exclude_repo=Homework-SQL) |
-</div>
+| ![Your github stats](https://github-readme-stats.vercel.app/api?username=MinnyS420&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Your top languages(https://github-readme-stats.vercel.app/api/top-langs/?username=MinnyS420&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&exclude_repo=Homework-SQL)|
+
 
 ###
 
