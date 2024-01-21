@@ -13,6 +13,10 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="70" alt="javascript logo"  />
   <img width="20" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" height="70" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" height="70" alt="react logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
