@@ -21,6 +21,8 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
   <img width="20" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="70" alt="dotnetcore logo"  />
@@ -54,6 +56,9 @@
   </a>
   <a href="https://www.linkedin.com/in/martin-stamenkovski-7923a1259/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="140" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://bintern.com/student/profile" target="_blank">
+    <img src="https://bintern.com/_images/logo.png" width="140" height="50" alt="linkedin logo"  />
   </a>
 </div>
 
