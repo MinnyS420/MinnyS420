@@ -19,7 +19,7 @@
   <img width="14" />
   <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" height="55" alt="Tailwind logo" />
   <img width="14" />
-  <img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272614e642f626f6f7473747261702d6c6f676f2d736861446f772e706e67" height="55" alt="Bootstrap logo" />
+  <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" height="55" alt="Bootstrap logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="javascript logo"  />
   <img width="14" />
