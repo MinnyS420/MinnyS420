@@ -101,12 +101,13 @@ In my free time I work as a **freelancer**, building web and app projects for cu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinnyS420&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinnyS420&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinnyS420&theme=tokyonight" height="165" alt="GitHub profile details" />
+  <img src="https://streak-stats.demolab.com/?user=MinnyS420&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinnyS420&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinnyS420&theme=tokyonight" height="165" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinnyS420&theme=tokyonight" height="165" alt="Top languages by commits" />
 </p>
 
 <p align="center">
